@@ -70,4 +70,6 @@ La información se administra mediante objetos y listas internas de Python. No s
 
 ### 9. Autora
 
+**Yenifer Eliana Quintero Bermúdez**
+
 Desarrollo individual del proyecto académico Software FJ.
